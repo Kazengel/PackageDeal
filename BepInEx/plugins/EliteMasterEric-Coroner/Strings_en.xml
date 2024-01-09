@@ -1,0 +1,415 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+    <tags>
+        <tag language="en" />
+    </tags>
+    <strings>
+        <UINotes text="Notes: " />
+        <UICauseOfDeath text="Cause of Death: " />
+
+        <FunnyNote text="A real go-getter." />
+        <FunnyNote text="A team player." />
+        <FunnyNote text="Always the first in line for coffee." />
+        <FunnyNote text="Ate the most snacks." />
+        <FunnyNote text="Can't cook instant noodles right." />
+        <FunnyNote text="Can't remember their passwords." />
+        <FunnyNote text="Dances when no one is watching." />
+        <FunnyNote text="Did a sick flip." />
+        <FunnyNote text="Dislikes smoke." />
+        <FunnyNote text="Got freaky on a Friday night." />
+        <FunnyNote text="Had the least fun." />
+        <FunnyNote text="Had the most fun." />
+        <FunnyNote text="Has a collection of rubber ducks." />
+        <FunnyNote text="Has a pet rock named Steve." />
+        <FunnyNote text="Has IP address 127.0.0.1." />
+        <FunnyNote text="Hasn't called their mother in a while." />
+        <FunnyNote text="I think this one's a serial killer." />
+        <FunnyNote text="Is afraid of the dark." />
+        <FunnyNote text="Lost a bet with a parrot." />
+        <FunnyNote text="Never finishes their... " />
+        <FunnyNote text="Once got stuck in a revolving door." />
+        <FunnyNote text="Passed GO and collected $200." />
+        <FunnyNote text="Perfectly unremarkable." />
+        <FunnyNote text="Secretly a lizard." />
+        <FunnyNote text="Secretly a superhero on weekends." />
+        <FunnyNote text="Sleeps with a night light." />
+        <FunnyNote text="Still uses a flip phone." />
+        <FunnyNote text="Stubbed their toe." />
+        <FunnyNote text="Talks to plants." />
+        <FunnyNote text="The bravest employee." />
+        <FunnyNote text="The cutest employee." />
+        <FunnyNote text="The goofiest goober." />
+        <FunnyNote text="The least likely to die next time." />
+        <FunnyNote text="The most likely to die next time." />
+        <FunnyNote text="Thinks pineapple belongs on pizza." />
+        <FunnyNote text="Thinks the Earth is flat." />
+        <FunnyNote text="Tried to high-five a mirror." />
+
+        <DeathAbandoned text="Abandoned by their coworkers." />
+        <DeathAbandoned text="Got ghosted by their survival team." />
+        <DeathAbandoned text="Got left out of a team sport." />
+        <DeathAbandoned text="Learned that 'alone time' should be limited." />
+        <DeathAbandoned text="Learned that loneliness can be fatal." />
+        <DeathAbandoned text="Was the last one at the party... forever." />
+
+        <DeathBlast text="Found out mines are not toys." />
+        <DeathBlast text="Had a blast." />
+        <DeathBlast text="Had an explosive personality." />
+        <DeathBlast text="Was blown to smithereens." />
+        <DeathBlast text="Went out in a blaze of glory." />
+        <DeathBlast text="Went out with a bang." />
+
+        <DeathBludgeoning text="Discovered why pillows are safer than shovels." />
+        <DeathBludgeoning text="Found out shovels aren't just for digging." />
+        <DeathBludgeoning text="Had an unexpected rendezvous with a shovel." />
+        <DeathBludgeoning text="Met the business end of a shovel." />
+        <DeathBludgeoning text="Received a heavy dose of blunt force trauma." />
+        <DeathBludgeoning text="Took too hard of a hit." />
+
+        <DeathCrushing text="Experienced the squeeze of a lifetime." />
+        <DeathCrushing text="Found out that heavy lifting can be fatal." />
+        <DeathCrushing text="Got caught between a rock and a hard place." />
+        <DeathCrushing text="Had a smashing time." />
+        <DeathCrushing text="Learned that objects can drop without notice." />
+        <DeathCrushing text="Learned that sometimes the world weighs you down." />
+        <DeathCrushing text="Tried to fight inertia, and inertia won." />
+
+        <DeathDrowning text="Discovered the ocean's bottom isn't a fun visit." />
+        <DeathDrowning text="Got lost in the deep end." />
+        <DeathDrowning text="Had a wet and deadly encounter." />
+        <DeathDrowning text="Thought they could breathe underwater." />
+        <DeathDrowning text="Took water aerobics too far." />
+        <DeathDrowning text="Tried to learn swimming the hard way." />
+        <DeathDrowning text="Underestimated the power of a puddle." />
+        <DeathDrowning text="Went for a swim in cement shoes." />
+
+        <DeathElectrocution text="Discovered why toasters and bathtubs don't mix." />
+        <DeathElectrocution text="Got a shocking surprise." />
+        <DeathElectrocution text="Had a hair-raising experience with high voltage." />
+        <DeathElectrocution text="Had an electrifying dance with death." />
+        <DeathElectrocution text="Learned that power lines aren't for tightrope walking." />
+        <DeathElectrocution text="Received a jolt to the heart." />
+        <DeathElectrocution text="Tried to conduct electricity with their body." />
+
+        <DeathEnemyBaboonHawk text="Got a peck on the cheek, Baboon Hawk style." />
+        <DeathEnemyBaboonHawk text="Learned that Baboon Hawks don't do tricks." />
+        <DeathEnemyBaboonHawk text="Mistook a Baboon Hawk for a friendly parrot." />
+        <DeathEnemyBaboonHawk text="Offered a Baboon Hawk a banana. Big mistake." />
+        <DeathEnemyBaboonHawk text="Played chicken with a Baboon Hawk. Lost." />
+        <DeathEnemyBaboonHawk text="Thought a Baboon Hawk was a new yoga pose." />
+        <DeathEnemyBaboonHawk text="Tried to enter a no-fly zone. Baboon Hawk disagreed." />
+        <DeathEnemyBaboonHawk text="Tried to outfly a Baboon Hawk." />
+
+        <DeathEnemyBracken text="Brought a knife to a Bracken fight." />
+        <DeathEnemyBracken text="Couldn't outrun a Bracken." />
+        <DeathEnemyBracken text="Found out Brackens aren't vegetarians." />
+        <DeathEnemyBracken text="Hugged by a Bracken." />
+        <DeathEnemyBracken text="Played peek-a-boo with a Bracken. Lost terribly." />
+        <DeathEnemyBracken text="Stared at a Bracken too long, or not long enough." />
+        <DeathEnemyBracken text="Thought 'Bracken' was just a weird tree." />
+
+        <DeathEnemyBunkerSpider text="Discovered a Bunker Spider's sticky situation." />
+        <DeathEnemyBunkerSpider text="Ensnared in a Bunker Spider's web." />
+        <DeathEnemyBunkerSpider text="Got caught in a web of lies... and death." />
+        <DeathEnemyBunkerSpider text="Got tangled in a deadly game of cat's cradle." />
+        <DeathEnemyBunkerSpider text="Learned that Bunker Spider silk isn't for knitting." />
+        <DeathEnemyBunkerSpider text="Mistook a Bunker Spider for a cuddly pet." />
+        <DeathEnemyBunkerSpider text="Thought web design was easy." />
+        <DeathEnemyBunkerSpider text="Tried to outweb a Bunker Spider." />
+
+        <DeathEnemyCircuitBees text="Caught in the crossfire of a Circuit Bee buzzsaw." />
+        <DeathEnemyCircuitBees text="Discovered the true meaning of 'shock and awe'." />
+        <DeathEnemyCircuitBees text="Disturbed a Circuit Beehive. Lived shortly after." />
+        <DeathEnemyCircuitBees text="Electro-stung to death by Circuit Bees." />
+        <DeathEnemyCircuitBees text="Learned that Circuit Bees don't do buzz-offs." />
+        <DeathEnemyCircuitBees text="Thought Circuit Bees made honey. They made pain." />
+        <DeathEnemyCircuitBees text="Took a zap from the bee zap brigade." />
+        <DeathEnemyCircuitBees text="Tried to catch a Circuit Bee. It caught back." />
+        <DeathEnemyCircuitBees text="Tried to swat a Circuit Bee. Bad idea." />
+        <DeathEnemyCircuitBees text="Wore flower-scented cologne near Circuit Bees." />
+
+        <DeathEnemyCoilHead text="Coiled up with a Coil Head." />
+        <DeathEnemyCoilHead text="Got wrapped up in a Coil Head's embrace." />
+        <DeathEnemyCoilHead text="Learned that Coil Heads have a tight grip." />
+        <DeathEnemyCoilHead text="Lost a staring contest with a Coil Head." />
+        <DeathEnemyCoilHead text="Played 'Red Light, Green Light' with a Coil Head." />
+        <DeathEnemyCoilHead text="Stared into the abyss, Coil Head stared back." />
+        <DeathEnemyCoilHead text="Thought a Coil Head was just misunderstood." />
+        <DeathEnemyCoilHead text="Tried to headbutt a Coil Head." />
+				
+        <DeathEnemyEarthLeviathan text="Discovered the Earth Leviathan's insatiable appetite." />
+        <DeathEnemyEarthLeviathan text="Found out that Earth Leviathans don't do piggybacks." />
+        <DeathEnemyEarthLeviathan text="Got a one-way ticket to the Earth's core." />
+        <DeathEnemyEarthLeviathan text="Learned that Earth Leviathans aren't herbivores." />
+        <DeathEnemyEarthLeviathan text="Rode the Earth Leviathan express." />
+        <DeathEnemyEarthLeviathan text="Swallowed whole by an Earth Leviathan." />
+        <DeathEnemyEarthLeviathan text="Thought 'Earth Leviathan' was an exotic plant." />
+
+        <DeathEnemyEyelessDog text="Got caught using a mechanical keyboard." />
+        <DeathEnemyEyelessDog text="Learned that 'Eyeless' does not mean 'harmless'." />
+        <DeathEnemyEyelessDog text="Played fetch and became the stick." />
+        <DeathEnemyEyelessDog text="Tried to teach an Eyeless Dog new tricks." />
+        <DeathEnemyEyelessDog text="Wasn't quiet around an Eyeless Dog." />
+        <DeathEnemyEyelessDog text="Whistled in the dark. It came running." />
+
+        <DeathEnemyForestGiant text="Gave a Forest Giant a flower. Got a tree." />
+        <DeathEnemyForestGiant text="Got stepped on during a Forest Giant's stroll." />
+        <DeathEnemyForestGiant text="Learned that Forest Giants don't do handshakes." />
+        <DeathEnemyForestGiant text="Played hide-and-seek with a Forest Giant." />
+        <DeathEnemyForestGiant text="Tried to outrun a Forest Giant's appetite." />
+        <DeathEnemyForestGiant text="Was the small spoon to a Forest Giant." />
+
+        <DeathEnemyGhostGirl text="Became part of a haunting routine." />
+        <DeathEnemyGhostGirl text="Brought a Ouija board to a Ghost fight." />
+        <DeathEnemyGhostGirl text="Didn't feel so good." />
+        <DeathEnemyGhostGirl text="Died a mysterious death." />
+        <DeathEnemyGhostGirl text="Got a real bad headache." />
+        <DeathEnemyGhostGirl text="Learned that Ghost Girls don't like small talk." />
+        <DeathEnemyGhostGirl text="Lost their mind." />
+        <DeathEnemyGhostGirl text="Misunderstood the concept of a 'spiritual encounter'." />
+        <DeathEnemyGhostGirl text="Received a ghoulish goodbye." />
+        <DeathEnemyGhostGirl text="Thought Ghost Girl was just a regular girl." />
+
+        <DeathEnemyHoarderBug text="Became part of a Hoarder Bug's collection." />
+        <DeathEnemyHoarderBug text="Discovered the Hoarder Bug's greedy grasp." />
+        <DeathEnemyHoarderBug text="Found out that Hoarder Bugs are avid collectors." />
+        <DeathEnemyHoarderBug text="Got a little too possessive with a Hoarder Bug." />
+        <DeathEnemyHoarderBug text="Learned that Hoarder Bugs don't do trades." />
+        <DeathEnemyHoarderBug text="Learned that Hoarder Bugs don't share." />
+        <DeathEnemyHoarderBug text="Thought Hoarder Bugs were just big fans." />
+        <DeathEnemyHoarderBug text="Tried to declutter a Hoarder Bug's nest." />
+        <DeathEnemyHoarderBug text="Tried to steal from a Hoarder Bug." />
+        <DeathEnemyHoarderBug text="Was hoarded by a Hoarder Bug." />
+
+        <DeathEnemyHygrodere text="Faced the Hygrodere's engulfing embrace." />
+        <DeathEnemyHygrodere text="Got a little too absorbed in nature." />
+        <DeathEnemyHygrodere text="Got lost in the sauce." />
+        <DeathEnemyHygrodere text="Had an oopsie with a Hygrodere." />
+        <DeathEnemyHygrodere text="Learned that Hygroderes aren't for hydration." />
+        <DeathEnemyHygrodere text="Learned that Hygroderes don't do splash fights." />
+        <DeathEnemyHygrodere text="Mistook a Hygrodere for a waterbed." />
+        <DeathEnemyHygrodere text="Tried to bottle a Hygrodere's essence." />
+        <DeathEnemyHygrodere text="Tried to moisturize with a Hygrodere." />
+        <DeathEnemyHygrodere text="Was absorbed by a Hygrodere." />
+        <DeathEnemyHygrodere text="Went for a dip in a Hygrodere pond." />
+
+        <DeathEnemyJester text="Became the punchline of a deadly joke." />
+        <DeathEnemyJester text="Got popped like a weasel." />
+        <DeathEnemyJester text="Got pranked by the Jester." />
+        <DeathEnemyJester text="Played cards with a Jester. Dealt a dead hand." />
+        <DeathEnemyJester text="Received a deadly pie in the face." />
+        <DeathEnemyJester text="Thought the Jester was just clowning around." />
+        <DeathEnemyJester text="Tried to outjoke a Jester." />
+        <DeathEnemyJester text="Was the butt of the Jester's joke." />
+
+        <DeathEnemyMaskedPlayerVictim text="Became a tragedy at the hands of the Mask." />
+        <DeathEnemyMaskedPlayerVictim text="Caught in the Mask's lethal performance." />
+        <DeathEnemyMaskedPlayerVictim text="Crossed paths with the Mask, and it was curtains." />
+        <DeathEnemyMaskedPlayerVictim text="Fell victim to the Mask's deadly allure." />
+        <DeathEnemyMaskedPlayerVictim text="Found out the Mask was no mere prop." />
+        <DeathEnemyMaskedPlayerVictim text="Learned that the Mask doesn't play favorites." />
+        <DeathEnemyMaskedPlayerVictim text="Tried to unmask a killer. It didn't go well." />
+        <DeathEnemyMaskedPlayerVictim text="Unmasked the Mask's deadly secret." />
+        <DeathEnemyMaskedPlayerVictim text="Was the final act in the Mask's play." />
+
+        <DeathEnemyMaskedPlayerWear text="Discovered the Mask's fatal charm." />
+        <DeathEnemyMaskedPlayerWear text="Found out the Mask wasn't just for show." />
+        <DeathEnemyMaskedPlayerWear text="Learned the Mask comes with strings attached." />
+        <DeathEnemyMaskedPlayerWear text="Nobody cared who they were until they put on the Mask." />
+        <DeathEnemyMaskedPlayerWear text="Put on the Mask and exited stage left forever." />
+        <DeathEnemyMaskedPlayerWear text="The Mask brought the curtains down on them." />
+        <DeathEnemyMaskedPlayerWear text="The Mask's embrace was a tad too tight." />
+        <DeathEnemyMaskedPlayerWear text="Tried to live a double life with the Mask." />
+        <DeathEnemyMaskedPlayerWear text="Wore the Mask, couldn't handle the role." />
+
+        <DeathEnemyNutcrackerKicked text="Discovered that Nutcrackers don't dance ballet." />
+        <DeathEnemyNutcrackerKicked text="Got a Nutcracker's footloose finale." />
+        <DeathEnemyNutcrackerKicked text="Got their nuts cracked by a Nutcracker." />
+        <DeathEnemyNutcrackerKicked text="Had a cracking good time." />
+        <DeathEnemyNutcrackerKicked text="Learned that Nutcrackers have a mean kick." />
+        <DeathEnemyNutcrackerKicked text="Played soccer with a Nutcracker." />
+        <DeathEnemyNutcrackerKicked text="Received the Nutcracker's signature move." />
+        <DeathEnemyNutcrackerKicked text="Tested the Nutcracker's kick. It passed." />
+        <DeathEnemyNutcrackerKicked text="Thought Nutcrackers only cracked nuts. Was wrong." />
+
+        <DeathEnemyNutcrackerShot text="Caught a Nutcracker's bullet with their teeth." />
+        <DeathEnemyNutcrackerShot text="Discovered that Nutcrackers have perfect aim." />
+        <DeathEnemyNutcrackerShot text="Faced the Nutcracker's firing squad." />
+        <DeathEnemyNutcrackerShot text="Got a front-row seat to the Nutcracker's gun show." />
+        <DeathEnemyNutcrackerShot text="Learned that Nutcrackers are sharpshooters." />
+        <DeathEnemyNutcrackerShot text="Learned that Nutcrackers don't shoot blanks." />
+        <DeathEnemyNutcrackerShot text="Tried to dodge a Nutcracker's bullet. Tried." />
+        <DeathEnemyNutcrackerShot text="Was at the wrong end of a 21-gun salute." />
+        <DeathEnemyNutcrackerShot text="Was the target of the Nutcracker's wrath." />
+
+        <DeathEnemySnareFlea text="Flea circus audition turned deadly." />
+        <DeathEnemySnareFlea text="Got caught by a Snare Flea's hug." />
+        <DeathEnemySnareFlea text="Learned that Snare Fleas are too cuddly." />
+        <DeathEnemySnareFlea text="Learned that Snare Fleas have a tight grip." />
+        <DeathEnemySnareFlea text="Thought they could squash a Snare Flea." />
+        <DeathEnemySnareFlea text="Tried to outjump a Snare Flea." />
+
+        <DeathEnemySporeLizard text="Learned that Spore Lizards are bad for allergies." />
+        <DeathEnemySporeLizard text="Learned that Spore Lizards don't do aromatherapy." />
+        <DeathEnemySporeLizard text="Thought Spore Lizard spores were perfume." />
+        <DeathEnemySporeLizard text="Thought spores were just fancy confetti." />
+        <DeathEnemySporeLizard text="Tried to catch spores with their tongue." />
+        <DeathEnemySporeLizard text="Tried to domesticate a Spore Lizard." />
+
+        <DeathEnemyThumper text="Got thumped by a Thumper." />
+        <DeathEnemyThumper text="Learned that Thumpers don't do high-fives." />
+        <DeathEnemyThumper text="Learned that Thumpers don't play drums." />
+        <DeathEnemyThumper text="Played patty-cake with a Thumper." />
+        <DeathEnemyThumper text="Thought 'Thumper' was a dance move." />
+        <DeathEnemyThumper text="Tried to thump a Thumper." />
+
+        <DeathGravity text="Believed they could fly." />
+        <DeathGravity text="Did not stick the landing." />
+        <DeathGravity text="Gravity: 1, Common Sense: 0." />
+        <DeathGravity text="Had a falling out with the ground." />
+        <DeathGravity text="Learned that what goes up must come down." />
+        <DeathGravity text="Took a dive, forgot to stop." />
+        <DeathGravity text="Tried skydiving without a parachute." />
+        <DeathGravity text="Was a victim of the law of gravity." />
+
+        <DeathGunshots text="Caught a bullet with their name on it." />
+        <DeathGunshots text="Filled to the brim with bullets." />
+        <DeathGunshots text="Found out what 'bullet time' really means." />
+        <DeathGunshots text="Had a fatal attraction to flying lead." />
+        <DeathGunshots text="Learned that gunfights are not like the movies." />
+        <DeathGunshots text="Learned the hard way that bullets are bad for health." />
+        <DeathGunshots text="Played dodgeball with bullets and lost." />
+        <DeathGunshots text="Realized they weren't faster than a speeding bullet." />
+        <DeathGunshots text="Took 'biting the bullet' too literally." />
+
+        <DeathKicking text="Became a victim of a lethal leg day." />
+        <DeathKicking text="Discovered that shoes can pack a punch." />
+        <DeathKicking text="Got a kick out of life." />
+        <DeathKicking text="Learned that high-kicks can be deadly." />
+        <DeathKicking text="Received the ultimate kick-off." />
+        <DeathKicking text="Took a boot to the head." />
+        <DeathKicking text="Was kicked around a little too hard." />
+
+        <DeathMauling text="Broke the 'do not feed the animals' rule." />
+        <DeathMauling text="Got a little too close to nature." />
+        <DeathMauling text="Learned that 'playing dead' doesn't work." />
+        <DeathMauling text="Thought they were fast, but they weren't fast enough." />
+        <DeathMauling text="Tried to pet the wrong thing." />
+        <DeathMauling text="Tried to take a selfie with a wild beast." />
+        <DeathMauling text="Went for a late stroll in a dangerous place." />
+
+        <DeathOtherDepositItemsDesk text="Discovered that some deposits are final." />
+        <DeathOtherDepositItemsDesk text="Found out that the desk takes more than items." />
+        <DeathOtherDepositItemsDesk text="Learned that the deposit desk has a no-refund policy." />
+        <DeathOtherDepositItemsDesk text="Learned the deadly cost of item returns." />
+        <DeathOtherDepositItemsDesk text="Lost a fight with the returns desk." />
+        <DeathOtherDepositItemsDesk text="Received a demotion." />
+        <DeathOtherDepositItemsDesk text="Received a lethal receipt for their deposit." />
+        <DeathOtherDepositItemsDesk text="Tried to deposit their soul. It was accepted." />
+        <DeathOtherDepositItemsDesk text="Was permanently relieved of duty." />
+        <DeathOtherDepositItemsDesk text="Was put on disciplinary leave." />
+
+        <DeathOtherItemDropship text="Found out that dropships don't do soft landings." />
+        <DeathOtherItemDropship text="Got an express delivery to the afterlife." />
+        <DeathOtherItemDropship text="Learned that dropships have a deadly ETA." />
+        <DeathOtherItemDropship text="Miscalculated the dropship's delivery speed." />
+        <DeathOtherItemDropship text="Rushed a dropship delivery, signed off permanently." />
+        <DeathOtherItemDropship text="Tried to intercept a dropship. Failed." />
+
+        <DeathOtherLandmine text="Found out mines are not toys." />
+        <DeathOtherLandmine text="Had a blast." />
+        <DeathOtherLandmine text="Had an explosive personality." />
+        <DeathOtherLandmine text="Learned the hard way that mines explode." />
+        <DeathOtherLandmine text="Was blown to smithereens." />
+        <DeathOtherLandmine text="Went out with a bang." />
+
+        <DeathOtherLightning text="Discovered why toasters and bathtubs don't mix." />
+        <DeathOtherLightning text="Found out lightning can strike twice." />
+        <DeathOtherLightning text="Got a shocking surprise." />
+        <DeathOtherLightning text="Had a hair-raising experience with high voltage." />
+        <DeathOtherLightning text="Had an electrifying dance with death." />
+        <DeathOtherLightning text="Received a jolt to the heart." />
+        <DeathOtherLightning text="Tried to conduct electricity with their body." />
+
+        <DeathOtherTurret text="Caught a bullet with their name on it." />
+        <DeathOtherTurret text="Filled to the brim with bullets." />
+        <DeathOtherTurret text="Found out what 'bullet time' really means." />
+        <DeathOtherTurret text="Had a fatal attraction to flying lead." />
+        <DeathOtherTurret text="Learned that gunfights are not like the movies." />
+        <DeathOtherTurret text="Learned the hard way that bullets are bad for health." />
+        <DeathOtherTurret text="Played dodgeball with bullets and lost." />
+        <DeathOtherTurret text="Realized they weren't faster than a speeding bullet." />
+        <DeathOtherTurret text="Took 'biting the bullet' too literally." />
+
+        <DeathPlayerJetpackBlast text="Flew high, then went out with a bang." />
+        <DeathPlayerJetpackBlast text="Got blown up by bad piloting." />
+        <DeathPlayerJetpackBlast text="Had a blast-off that turned into a blast." />
+        <DeathPlayerJetpackBlast text="Ignited a jetpack-fueled explosion." />
+        <DeathPlayerJetpackBlast text="Learned that jetpacks can be volatile." />
+        <DeathPlayerJetpackBlast text="Learned to fly, then learned to explode." />
+        <DeathPlayerJetpackBlast text="Missed the jetpack's user manual page on explosions." />
+        <DeathPlayerJetpackBlast text="Thought jetpack flame was just for show." />
+        <DeathPlayerJetpackBlast text="Took a jetpack joyride to a fiery end." />
+        <DeathPlayerJetpackBlast text="Turned into a firework." />
+
+        <DeathPlayerJetpackGravity text="Flew too close to the sun." />
+        <DeathPlayerJetpackGravity text="Found out that what goes up doesn't always come down gently." />
+        <DeathPlayerJetpackGravity text="Ignored their jetpack's low fuel warning." />
+        <DeathPlayerJetpackGravity text="Jetpacked straight into an unexpected landing." />
+        <DeathPlayerJetpackGravity text="Learned that jetpacks and gravity don't mix." />
+        <DeathPlayerJetpackGravity text="Misjudged their jetpack's altitude limit." />
+        <DeathPlayerJetpackGravity text="Ran out of fuel." />
+        <DeathPlayerJetpackGravity text="Took a nosedive into the law of gravity." />
+        <DeathPlayerJetpackGravity text="Tried to outfly gravity. Gravity won." />
+        <DeathPlayerJetpackGravity text="Tried to touch the sky, kissed the ground instead." />
+        <DeathPlayerJetpackGravity text="Wanted to be an astronaut." />
+
+        <DeathPlayerMurderMelee text="Discovered the deadly side of office politics." />
+        <DeathPlayerMurderMelee text="Felt the final hit of workplace violence." />
+        <DeathPlayerMurderMelee text="Learned that some coworkers can be cutthroat." />
+        <DeathPlayerMurderMelee text="Took team building exercises to a fatal level." />
+        <DeathPlayerMurderMelee text="Was on the receiving end of a killer punchline." />
+
+        <DeathPlayerMurderShotgun text="Discovered that some meetings are final." />
+        <DeathPlayerMurderShotgun text="Faced the ultimate 'you're fired' scenario." />
+        <DeathPlayerMurderShotgun text="Found out the conference room was a kill zone." />
+        <DeathPlayerMurderShotgun text="Learned that shotguns are not for conflict resolution." />
+        <DeathPlayerMurderShotgun text="Received a lethal lesson in shotgun diplomacy." />
+        <DeathPlayerMurderShotgun text="Took a shotgun shell seminar." />
+        <DeathPlayerMurderShotgun text="Was at the business end of office politics." />
+
+        <DeathPlayerQuicksand text="Couldn't outpace the quicksand." />
+        <DeathPlayerQuicksand text="Found out that quicksand isn't a spa treatment." />
+        <DeathPlayerQuicksand text="Mistook quicksand for a mud bath." />
+        <DeathPlayerQuicksand text="Played in the sand, stayed forever." />
+        <DeathPlayerQuicksand text="Tried to quickstep over quicksand." />
+
+        <DeathPlayerStunGrenade text="Got a shocking end from a stun grenade." />
+        <DeathPlayerStunGrenade text="Got flashbanged by a coworker." />
+        <DeathPlayerStunGrenade text="Had a stunningly brief encounter with a grenade." />
+        <DeathPlayerStunGrenade text="Learned that stun grenades can be stunningly lethal." />
+        <DeathPlayerStunGrenade text="Received a stunning exit cue." />
+        <DeathPlayerStunGrenade text="Was left stunned... forever." />
+
+        <DeathStrangulation text="Found out that neck massages can be deadly." />
+        <DeathStrangulation text="Realized that 'breath play' is not for everyone." />
+        <DeathStrangulation text="Took a chokehold way too seriously." />
+
+        <DeathSuffocation text="Didn't believe in the concept of breathing." />
+        <DeathSuffocation text="Forgot how to breathe." />
+        <DeathSuffocation text="Misplaced their oxygen." />
+        <DeathSuffocation text="Tried to hold their breath indefinitely." />
+
+        <DeathUnknown text="Ceased living in an indeterminate fashion." />
+        <DeathUnknown text="Concluded their life's story with an enigmatic ellipsis." />
+        <DeathUnknown text="Died somehow." />
+        <DeathUnknown text="Expired due to reasons yet to be determined." />
+        <DeathUnknown text="Expired in an inexplicable manner." />
+        <DeathUnknown text="Left this world in an unspecified manner." />
+        <DeathUnknown text="Met their demise through unknown means." />
+        <DeathUnknown text="Most sincerely dead." />
+        <DeathUnknown text="Reached an uncertain end." />
+        <DeathUnknown text="Shuffled off this mortal coil in a vague way." />
+    </strings>
+</base>
